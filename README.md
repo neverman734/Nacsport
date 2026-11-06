@@ -227,4 +227,4 @@ Nacsport is available as a complete free version, providing all features and upd
 Start enhancing your coaching today with Nacsport, the ultimate video analysis tool! Download now and take your training sessions to the next level!
 
 ---
-**Last updated:** 2026-11-05 23:25:55 UTC
+**Last updated:** 2026-11-06 05:45:36 UTC
